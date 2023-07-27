@@ -8,6 +8,9 @@ From https://github.com/StepfenShawn/Cantonese/blob/main/README.md
 讲嘢: |K| 系 3
 嗌 KNN 过嚟估下 -> |[3, 0]|
 ```
+```
+动作片
+```
 
 ### TODOs
 - [ ] sklearn version
