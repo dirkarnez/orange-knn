@@ -13,4 +13,5 @@ From https://github.com/StepfenShawn/Cantonese/blob/main/README.md
 ```
 
 ### TODOs
-- [ ] sklearn version
+- [x] sklearn version
+  - [dirkarnez/sklearn-knn](https://github.com/dirkarnez/sklearn-knn)
